@@ -1,0 +1,195 @@
+catalyst_name,support,promoter,temperature_c,pressure_bar,ghsv,h2_co2_ratio,conversion_pct,selectivity_pct,yield_pct,productivity,stability_text,patent_number,evidence,original_row_index,data_quality_score
+Benchmark copper-zinc-magnesium-alumina catalyst (CuO/ZnO/MgO/Al2O3),Al2O3,MgO,265.0,35.0,,3.0,15.0,70.0,,,,1(2).pdf,Catalyst performance table,1,1.0
+Copper-zinc-zirconia-alumina catalyst (CuO/ZnO/ZrO2/Al2O3),Al2O3,ZrO2,265.0,35.0,,3.0,18.0,58.0,,,,1(2).pdf,Catalyst performance table,2,1.0
+Copper-zinc-alumina-silica-zirconia catalyst,Al2O3/SiO2,ZrO2,265.0,35.0,,3.0,6.0,64.0,,,,1(2).pdf,Catalyst performance table,3,1.0
+Copper-zinc-zirconium-aluminium-cerium-titanium catalyst,CeO2/TiO2 used as structural support/promoter in preparation,Ce + Ti + Zr + Al,265.0,35.0,,3.0,19.0,69.0,,,,1(2).pdf,Catalyst performance table,4,1.0
+Palladium-copper on titanium dioxide with iron additive (Pd2Cu/Fe on P25 TiO2),"P25 titanium dioxide (TiO2, 21 nm)",Fe,200.0,,,,2.0,98.0,48.0,,,2(3).pdf,Reaction example,5,0.85
+Palladium-copper on titanium dioxide with iron additive (Pd2Cu/Fe on P25 TiO2),"P25 titanium dioxide (TiO2, 21 nm)",Fe,200.0,,,,5.0,96.0,63.0,,,2(3).pdf,Reaction example,6,0.85
+Copper-zinc oxide on alumina powder with manganese-niobium-zirconium promoters,Alumina powder (Al2O3),Mn/Nb/Zr = 1:1:1,250.0,22.5,,3.0,12.47,60.23,7.5,,,3(2).pdf,Catalyst performance table,7,1.0
+Copper-zinc oxide on alumina pellets with manganese-niobium-zirconium promoters,Alumina pellets (Al2O3),Mn/Nb/Zr = 1:1:1,300.0,40.0,,3.0,23.04,64.95,15.61,,,3(2).pdf,Catalyst performance table,8,1.0
+Copper-zinc oxide on SBA-15 silica with manganese-niobium-zirconium promoters,SBA-15 silica,Mn/Nb/Zr = 1:1:1,250.0,22.5,,3.0,19.6,99.0,19.4,,,3(2).pdf,Catalyst performance table,9,1.0
+Copper-zinc oxide on alumina powder with optimized manganese-niobium-zirconium promoters,Alumina powder (Al2O3),"Mn/Nb/Zr = 4:1:1; Mn 0.06 wt%, Nb 0.015 wt%, Zr 0.015 wt%",300.0,80.0,,10.0,68.35,93.0,63.59,,,3(2).pdf,Catalyst performance table,10,1.0
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (55% Cu / 10% Zn / 15% Zr / 10% Ce / 10% Y),,Y with Zr and Ce,240.0,40.0,,3.0,,,10.6,,,4(2).pdf,Catalyst performance table,11,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (55% Cu / 10% Zn / 15% Zr / 10% Ce / 10% Y),,Y with Zr and Ce,240.0,40.0,,3.0,,,10.7,,,4(2).pdf,Catalyst performance table,12,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (55% Cu / 10% Zn / 15% Zr / 10% Ce / 10% Y),,Y with Zr and Ce,220.0,40.0,,3.0,,,11.4,,,4(2).pdf,Catalyst performance table,13,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (55% Cu / 10% Zn / 15% Zr / 10% Ce / 10% Y),,Y with Zr and Ce,220.0,40.0,,3.0,,,10.0,,,4(2).pdf,Catalyst performance table,14,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 20% Zn / 10% Zr / 5% Ce / 5% Y),,Y with Zr and Ce,240.0,40.0,,3.0,,,11.8,,,4(2).pdf,Catalyst performance table,15,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 20% Zn / 10% Zr / 5% Ce / 5% Y),,Y with Zr and Ce,240.0,40.0,,3.0,,,11.9,,,4(2).pdf,Catalyst performance table,16,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 20% Zn / 10% Zr / 5% Ce / 5% Y),,Y with Zr and Ce,220.0,40.0,,3.0,,,12.8,,,4(2).pdf,Catalyst performance table,17,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 20% Zn / 10% Zr / 5% Ce / 5% Y),,Y with Zr and Ce,220.0,40.0,,3.0,,,10.8,,,4(2).pdf,Catalyst performance table,18,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 15% Zn / 10% Zr / 10% Ce / 5% Y),,Y with Zr and Ce,240.0,40.0,,3.0,,,10.3,,,4(2).pdf,Catalyst performance table,19,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 15% Zn / 10% Zr / 10% Ce / 5% Y),,Y with Zr and Ce,240.0,40.0,,3.0,,,10.5,,,4(2).pdf,Catalyst performance table,20,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 15% Zn / 10% Zr / 10% Ce / 5% Y),,Y with Zr and Ce,220.0,40.0,,3.0,,,10.4,,,4(2).pdf,Catalyst performance table,21,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 15% Zn / 10% Zr / 10% Ce / 5% Y),,Y with Zr and Ce,220.0,40.0,,3.0,,,8.8,,,4(2).pdf,Catalyst performance table,22,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 15% Zn / 10% Zr / 5% Ce / 10% Y),,Y with Zr and Ce,240.0,40.0,,3.0,,,10.3,,,4(2).pdf,Catalyst performance table,23,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 15% Zn / 10% Zr / 5% Ce / 10% Y),,Y with Zr and Ce,240.0,40.0,,3.0,,,10.4,,,4(2).pdf,Catalyst performance table,24,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 15% Zn / 10% Zr / 5% Ce / 10% Y),,Y with Zr and Ce,220.0,40.0,,3.0,,,9.9,,,4(2).pdf,Catalyst performance table,25,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (60% Cu / 15% Zn / 10% Zr / 5% Ce / 10% Y),,Y with Zr and Ce,220.0,40.0,,3.0,,,8.3,,,4(2).pdf,Catalyst performance table,26,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (65% Cu / 20% Zn / 5% Zr / 5% Ce / 5% Y),,Y with Zr and Ce,240.0,40.0,,3.0,,,10.9,,,4(2).pdf,Catalyst performance table,27,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (65% Cu / 20% Zn / 5% Zr / 5% Ce / 5% Y),,Y with Zr and Ce,240.0,40.0,,3.0,,,11.3,,,4(2).pdf,Catalyst performance table,28,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (65% Cu / 20% Zn / 5% Zr / 5% Ce / 5% Y),,Y with Zr and Ce,220.0,40.0,,3.0,,,11.5,,,4(2).pdf,Catalyst performance table,29,0.6
+Copper-zinc-zirconium-cerium-yttrium mixed oxide (65% Cu / 20% Zn / 5% Zr / 5% Ce / 5% Y),,Y with Zr and Ce,220.0,40.0,,3.0,,,9.9,,,4(2).pdf,Catalyst performance table,30,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% La),,La with Zr and Ce,240.0,40.0,,3.0,,,10.4,,,4(2).pdf,Catalyst performance table,31,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% La),,La with Zr and Ce,240.0,40.0,,3.0,,,10.7,,,4(2).pdf,Catalyst performance table,32,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% La),,La with Zr and Ce,220.0,40.0,,3.0,,,9.6,,,4(2).pdf,Catalyst performance table,33,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% La),,La with Zr and Ce,220.0,40.0,,3.0,,,8.2,,,4(2).pdf,Catalyst performance table,34,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (60% Cu / 10% Zn / 10% Zr / 10% Ce / 10% La),,La with Zr and Ce,240.0,40.0,,3.0,,,10.8,,,4(2).pdf,Catalyst performance table,35,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (60% Cu / 10% Zn / 10% Zr / 10% Ce / 10% La),,La with Zr and Ce,240.0,40.0,,3.0,,,11.2,,,4(2).pdf,Catalyst performance table,36,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (60% Cu / 10% Zn / 10% Zr / 10% Ce / 10% La),,La with Zr and Ce,220.0,40.0,,3.0,,,10.5,,,4(2).pdf,Catalyst performance table,37,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (60% Cu / 10% Zn / 10% Zr / 10% Ce / 10% La),,La with Zr and Ce,220.0,40.0,,3.0,,,9.0,,,4(2).pdf,Catalyst performance table,38,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (65% Cu / 20% Zn / 5% Zr / 5% Ce / 5% La),,La with Zr and Ce,240.0,40.0,,3.0,,,11.0,,,4(2).pdf,Catalyst performance table,39,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (65% Cu / 20% Zn / 5% Zr / 5% Ce / 5% La),,La with Zr and Ce,240.0,40.0,,3.0,,,11.1,,,4(2).pdf,Catalyst performance table,40,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (65% Cu / 20% Zn / 5% Zr / 5% Ce / 5% La),,La with Zr and Ce,220.0,40.0,,3.0,,,10.7,,,4(2).pdf,Catalyst performance table,41,0.6
+Copper-zinc-zirconium-cerium-lanthanum mixed oxide (65% Cu / 20% Zn / 5% Zr / 5% Ce / 5% La),,La with Zr and Ce,220.0,40.0,,3.0,,,9.3,,,4(2).pdf,Catalyst performance table,42,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (55% Cu / 10% Zn / 15% Zr / 10% Ce / 10% Ba),,Ba with Zr and Ce,240.0,40.0,,3.0,,,10.6,,,4(2).pdf,Catalyst performance table,43,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (55% Cu / 10% Zn / 15% Zr / 10% Ce / 10% Ba),,Ba with Zr and Ce,240.0,40.0,,3.0,,,11.0,,,4(2).pdf,Catalyst performance table,44,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (55% Cu / 10% Zn / 15% Zr / 10% Ce / 10% Ba),,Ba with Zr and Ce,220.0,40.0,,3.0,,,10.0,,,4(2).pdf,Catalyst performance table,45,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (55% Cu / 10% Zn / 15% Zr / 10% Ce / 10% Ba),,Ba with Zr and Ce,220.0,40.0,,3.0,,,8.5,,,4(2).pdf,Catalyst performance table,46,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (60% Cu / 15% Zn / 10% Zr / 10% Ce / 5% Ba),,Ba with Zr and Ce,240.0,40.0,,3.0,,,10.5,,,4(2).pdf,Catalyst performance table,47,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (60% Cu / 15% Zn / 10% Zr / 10% Ce / 5% Ba),,Ba with Zr and Ce,240.0,40.0,,3.0,,,10.9,,,4(2).pdf,Catalyst performance table,48,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (60% Cu / 15% Zn / 10% Zr / 10% Ce / 5% Ba),,Ba with Zr and Ce,220.0,40.0,,3.0,,,10.5,,,4(2).pdf,Catalyst performance table,49,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (60% Cu / 15% Zn / 10% Zr / 10% Ce / 5% Ba),,Ba with Zr and Ce,220.0,40.0,,3.0,,,8.9,,,4(2).pdf,Catalyst performance table,50,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (60% Cu / 20% Zn / 10% Zr / 5% Ce / 5% Ba),,Ba with Zr and Ce,240.0,40.0,,3.0,,,11.0,,,4(2).pdf,Catalyst performance table,51,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (60% Cu / 20% Zn / 10% Zr / 5% Ce / 5% Ba),,Ba with Zr and Ce,240.0,40.0,,3.0,,,11.6,,,4(2).pdf,Catalyst performance table,52,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (60% Cu / 20% Zn / 10% Zr / 5% Ce / 5% Ba),,Ba with Zr and Ce,220.0,40.0,,3.0,,,10.9,,,4(2).pdf,Catalyst performance table,53,0.6
+Copper-zinc-zirconium-cerium-barium mixed oxide (60% Cu / 20% Zn / 10% Zr / 5% Ce / 5% Ba),,Ba with Zr and Ce,220.0,40.0,,3.0,,,9.0,,,4(2).pdf,Catalyst performance table,54,0.6
+Copper-zinc-zirconium-cerium-rubidium mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% Rb),,Rb with Zr and Ce,240.0,30.0,,3.0,,,10.1,,,4(2).pdf,Catalyst performance table,55,0.6
+Copper-zinc-zirconium-cerium-rubidium mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% Rb),,Rb with Zr and Ce,220.0,30.0,,3.0,,,10.0,,,4(2).pdf,Catalyst performance table,56,0.6
+Copper-zinc-zirconium-cerium-rubidium mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% Rb),,Rb with Zr and Ce,220.0,30.0,,3.0,,,9.8,,,4(2).pdf,Catalyst performance table,57,0.6
+Copper-zinc-zirconium-cerium-terbium mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% Tb),,Tb with Zr and Ce,240.0,40.0,,3.0,15.5,29.0,11.0,,,4(2).pdf,Catalyst performance table,58,1.0
+Copper-zinc-zirconium-cerium-terbium mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% Tb),,Tb with Zr and Ce,260.0,40.0,,3.0,21.7,58.7,12.8,,,4(2).pdf,Catalyst performance table,59,1.0
+Copper-zinc-zirconium-cerium-terbium mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% Tb),,Tb with Zr and Ce,240.0,40.0,,3.0,21.0,55.0,11.0,,,4(2).pdf,Catalyst performance table,60,1.0
+Copper-zinc-zirconium-cerium-strontium mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% Sr),,Sr with Zr and Ce,260.0,40.0,,3.0,30.0,56.0,16.8,,,4(2).pdf,Catalyst performance table,61,1.0
+Copper-zinc-zirconium-cerium-strontium mixed oxide (45% Cu / 20% Zn / 15% Zr / 10% Ce / 10% Sr),,Sr with Zr and Ce,260.0,40.0,,3.0,32.0,55.0,17.7,,,4(2).pdf,Catalyst performance table,62,1.0
+Copper-zinc-zirconium-cerium-yttrium-lanthanum mixed oxide (55% Cu / 20% Zn / 10% Zr / 5% Ce / 5% Y / 5% La),,Y and La with Zr and Ce,240.0,40.0,,3.0,20.0,85.0,17.9,,,4(2).pdf,Catalyst performance table,63,1.0
+Copper-zinc-zirconium-cerium-yttrium-lanthanum mixed oxide (55% Cu / 20% Zn / 10% Zr / 5% Ce / 5% Y / 5% La),,Y and La with Zr and Ce,260.0,40.0,,3.0,18.8,79.0,14.8,,,4(2).pdf,Catalyst performance table,64,1.0
+Unsupported copper-zinc-zirconia powder,No support,,250.0,30.0,,3.0,,33.31,0.155,,51.0,5(3).pdf,Catalyst performance table,65,0.8
+"Copper-zinc-zirconia on SBA-15 silica, 20% loading, Cu/ZnO = 2.5",SBA-15 mesoporous silica,,250.0,30.0,,3.0,,26.37,5.05,,31.0,5(3).pdf,Catalyst performance table,66,0.8
+"Copper-zinc-zirconia on SBA-15 silica, 20% loading, Cu/ZnO = 1",SBA-15 mesoporous silica,,250.0,30.0,,3.0,,30.6,5.86,,46.0,5(3).pdf,Catalyst performance table,67,0.8
+"Copper-zinc-zirconia on SBA-15 silica, 35% loading, Cu/ZnO = 2.5",SBA-15 mesoporous silica,,250.0,30.0,,3.0,,24.35,3.89,,27.0,5(3).pdf,Catalyst performance table,68,0.8
+"Copper-zinc oxide on SBA-15 silica, 20% loading, Cu/ZnO = 1",SBA-15 mesoporous silica,,250.0,30.0,,3.0,,27.74,2.46,,68.0,5(3).pdf,Catalyst performance table,69,0.8
+Copper-zinc-zirconia on SBA-15 silica without activation,SBA-15 mesoporous silica,,250.0,30.0,,3.0,,36.1,7.01,,46.0,5(3).pdf,Catalyst performance table,70,0.8
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,170.0,20.0,,2.0,,,,,,6(2).pdf,Reaction table,71,0.6
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,170.0,20.0,,2.0,,,,,,6(2).pdf,Reaction table,72,0.6
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,170.0,20.0,,2.0,,,2.0,,,6(2).pdf,Reaction table,73,0.6
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,170.0,20.0,,2.0,,,,,,6(2).pdf,Reaction table,74,0.6
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,170.0,20.0,,2.0,,,100.0,,,6(2).pdf,Reaction table,75,0.6
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,170.0,20.0,,2.0,,,76.0,,,6(2).pdf,Reaction table,76,0.6
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,150.0,20.0,,2.0,,,28.0,,,6(2).pdf,Reaction table,77,0.6
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,120.0,20.0,,2.0,,,19.0,,,6(2).pdf,Reaction table,78,0.6
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,170.0,20.0,,2.0,,,7.0,,,6(2).pdf,Reaction table,79,0.6
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,170.0,20.0,,2.0,,,18.0,,,6(2).pdf,Reaction table,80,0.6
+Commercial copper-zinc-alumina methanol catalyst (Cu/ZnO/Al2O3),Alumina in commercial catalyst,,170.0,20.0,,2.0,,,21.0,,,6(2).pdf,Reaction table,81,0.6
+Ruthenium triphenylphosphine complex,,,140.0,60.0,,,,,,,,6(2).pdf,Reaction table,82,0.6
+Ruthenium PNP pincer catalyst with aromatic backbone,,,140.0,60.0,,,,,69.0,,,6(2).pdf,Reaction table,83,0.6
+Ruthenium PNP pincer catalyst with aliphatic backbone,,,140.0,60.0,,,,,84.0,,,6(2).pdf,Reaction table,84,0.6
+Ruthenium PNP pincer catalyst with aliphatic backbone,,,140.0,50.0,,,,,17.0,,,6(2).pdf,Reaction table,85,0.6
+Ruthenium PNP pincer catalyst with aliphatic backbone,,,140.0,50.0,,,,,31.0,,,6(2).pdf,Reaction table,86,0.6
+Ruthenium PNP pincer catalyst with aliphatic backbone plus PEI600,,,140.0,50.0,,,,,32.0,,,6(2).pdf,Reaction table,87,0.6
+Ruthenium PNP pincer catalyst with aliphatic backbone plus PEI600,,,140.0,50.0,,,,,82.0,,,6(2).pdf,Reaction table,88,0.6
+Ruthenium PNP pincer catalyst with aromatic backbone plus PEI600,,,140.0,50.0,,,,,10.0,,,6(2).pdf,Reaction table,89,0.6
+Copper-based methanol catalyst mixed with carbon oxide conversion catalyst,,,245.0,75.0,,,72.0,,,,,7(3).pdf,Process example,90,0.8
+Copper-based methanol catalyst mixed with carbon oxide conversion catalyst,,,,75.0,,,99.7,,,,,7(3).pdf,Process example,91,0.65
+Copper-based methanol catalyst mixed with carbon oxide conversion catalyst,,,210.0,98.0,,,83.0,,,,,7(3).pdf,Process example,92,0.8
+Copper-based methanol catalyst mixed with carbon oxide conversion catalyst,,,210.0,98.0,,,2.0,,,,,7(3).pdf,Process example,93,0.8
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,89.9,87.6,,,,8(2).pdf,Catalyst performance table,94,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,90.7,94.8,,,,8(2).pdf,Catalyst performance table,95,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,88.5,97.2,,,,8(2).pdf,Catalyst performance table,96,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,88.0,96.5,,,,8(2).pdf,Catalyst performance table,97,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,86.1,94.1,,,,8(2).pdf,Catalyst performance table,98,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,84.7,93.1,,,,8(2).pdf,Catalyst performance table,99,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,61.3,81.7,,,,8(2).pdf,Catalyst performance table,100,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,45.1,60.3,,,,8(2).pdf,Catalyst performance table,101,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,31.8,57.2,,,,8(2).pdf,Catalyst performance table,102,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,89.0,97.8,,,,8(2).pdf,Catalyst performance table,103,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,86.5,97.4,,,,8(2).pdf,Catalyst performance table,104,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,83.3,96.8,,,,8(2).pdf,Catalyst performance table,105,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,74.8,96.0,,,,8(2).pdf,Catalyst performance table,106,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,69.5,95.5,,,,8(2).pdf,Catalyst performance table,107,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,61.0,93.7,,,,8(2).pdf,Catalyst performance table,108,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,40.2,86.2,,,,8(2).pdf,Catalyst performance table,109,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,33.2,76.1,,,,8(2).pdf,Catalyst performance table,110,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,25.3,70.0,,,,8(2).pdf,Catalyst performance table,111,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,184.0,,3.0,37.3,91.0,,,,8(2).pdf,Catalyst performance table,112,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,184.0,,3.0,44.1,90.9,,,,8(2).pdf,Catalyst performance table,113,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,184.0,,3.0,47.1,87.8,,,,8(2).pdf,Catalyst performance table,114,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,184.0,,3.0,46.4,86.1,,,,8(2).pdf,Catalyst performance table,115,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,184.0,,3.0,47.0,84.8,,,,8(2).pdf,Catalyst performance table,116,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,184.0,,3.0,45.5,85.8,,,,8(2).pdf,Catalyst performance table,117,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,184.0,,3.0,37.1,77.3,,,,8(2).pdf,Catalyst performance table,118,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,184.0,,3.0,32.8,66.3,,,,8(2).pdf,Catalyst performance table,119,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,184.0,,3.0,26.6,63.7,,,,8(2).pdf,Catalyst performance table,120,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,32.3,13.0,,,,8(2).pdf,Catalyst performance table,121,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,33.2,71.8,,,,8(2).pdf,Catalyst performance table,122,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,32.9,73.3,,,,8(2).pdf,Catalyst performance table,123,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,32.6,69.7,,,,8(2).pdf,Catalyst performance table,124,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,30.9,64.9,,,,8(2).pdf,Catalyst performance table,125,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,30.0,54.9,,,,8(2).pdf,Catalyst performance table,126,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,28.6,53.6,,,,8(2).pdf,Catalyst performance table,127,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,25.9,51.2,,,,8(2).pdf,Catalyst performance table,128,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,22.4,47.7,,,,8(2).pdf,Catalyst performance table,129,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,46.0,,3.0,21.4,6.4,,,,8(2).pdf,Catalyst performance table,130,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,46.0,,3.0,25.4,8.4,,,,8(2).pdf,Catalyst performance table,131,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,46.0,,3.0,24.3,26.3,,,,8(2).pdf,Catalyst performance table,132,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,46.0,,3.0,24.0,26.0,,,,8(2).pdf,Catalyst performance table,133,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,46.0,,3.0,23.8,24.5,,,,8(2).pdf,Catalyst performance table,134,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,46.0,,3.0,23.8,22.8,,,,8(2).pdf,Catalyst performance table,135,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,46.0,,3.0,25.1,22.3,,,,8(2).pdf,Catalyst performance table,136,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,46.0,,3.0,24.0,23.3,,,,8(2).pdf,Catalyst performance table,137,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,46.0,,3.0,20.2,19.7,,,,8(2).pdf,Catalyst performance table,138,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,34.1,53.5,,,,8(2).pdf,Catalyst performance table,139,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,29.3,52.5,,,,8(2).pdf,Catalyst performance table,140,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,25.1,48.1,,,,8(2).pdf,Catalyst performance table,141,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,92.0,,3.0,25.9,63.2,,,,8(2).pdf,Catalyst performance table,142,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,63.7,93.5,,,,8(2).pdf,Catalyst performance table,143,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,46.4,88.1,,,,8(2).pdf,Catalyst performance table,144,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,33.8,81.3,,,,8(2).pdf,Catalyst performance table,145,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,260.0,331.0,,3.0,27.2,75.0,,,,8(2).pdf,Catalyst performance table,146,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,87.7,97.6,,,,8(2).pdf,Catalyst performance table,147,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,80.0,96.7,,,,8(2).pdf,Catalyst performance table,148,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,67.9,93.9,,,,8(2).pdf,Catalyst performance table,149,1.0
+Commercial copper-zinc-alumina methanol catalyst (CuO/ZnO/Al2O3/MgO),Alumina in commercial catalyst,MgO,280.0,442.0,,3.0,65.31,91.9,,,,8(2).pdf,Catalyst performance table,150,1.0
+Precipitated copper-zinc catalyst (CuO/ZnO),,,280.0,331.0,,3.0,52.0,84.0,,1.2,,8(2).pdf,Catalyst example / performance statement,151,1.0
+Precipitated copper-zinc catalyst (CuO/ZnO),,,300.0,442.0,,3.0,56.0,92.0,,1.2,,8(2).pdf,Catalyst example / performance statement,152,1.0
+Ruthenium PNP dichloride complex,,,70.0,2.0,,,,,,,,10(3).pdf,Reaction example,153,0.6
+Ruthenium PNP carbonyl hydride chloride complex,,,70.0,2.0,,,,,,,,10(3).pdf,Reaction example,154,0.6
+Iridium PNP hydride chloride complex,,,70.0,2.0,,,,,,,,10(3).pdf,Reaction example,155,0.6
+Ruthenium diphenyl-PNP carbonyl hydride chloride complex,,,80.0,2.0,,,,,,,,10(3).pdf,Reaction example,156,0.6
+Ruthenium PNP dichloride complex,,,80.0,2.0,,,,,,,,10(3).pdf,Reaction example,157,0.6
+Ruthenium PNP carbonyl hydride chloride complex,,,80.0,2.0,,,,,,,,10(3).pdf,Reaction example,158,0.6
+Ruthenium diphenyl-PNP carbonyl hydride chloride complex,,,80.0,2.0,,,,,,,,10(3).pdf,Reaction example,159,0.6
+Ruthenium PNP dichloride complex,,,,2.0,,,,,,,,10(3).pdf,Reaction example,160,0.45
+Ruthenium PNP carbonyl hydride chloride complex,,,,2.0,,,,,,,,10(3).pdf,Reaction example,161,0.45
+Indium oxide without noble metal,,,280.0,50.0,,4.0,2.3,90.0,,0.16,,11(2).pdf,Catalyst performance table,162,1.0
+"Palladium-promoted indium oxide (co-precipitated, 0.31 wt% Pd)",In2O3,Pd,280.0,50.0,,4.0,8.2,85.0,,0.48,,11(2).pdf,Catalyst performance table,163,1.0
+"Palladium-promoted indium oxide (co-precipitated, 0.74 wt% Pd)",In2O3,Pd,280.0,50.0,,4.0,11.5,78.0,,0.66,,11(2).pdf,Catalyst performance table,164,1.0
+"Palladium-promoted indium oxide (co-precipitated, 0.74 wt% Pd)",In2O3,Pd,280.0,50.0,,4.0,9.7,75.0,,1.01,,11(2).pdf,Catalyst performance table,165,1.0
+"Palladium-promoted indium oxide (co-precipitated, 1.45 wt% Pd)",In2O3,Pd,280.0,50.0,,4.0,12.3,72.0,,0.64,,11(2).pdf,Catalyst performance table,166,1.0
+"Palladium-promoted indium oxide (co-precipitated, 3.36 wt% Pd)",In2O3,Pd,280.0,50.0,,4.0,5.4,89.0,,0.33,,11(2).pdf,Catalyst performance table,167,1.0
+"Palladium-promoted indium oxide (dry impregnated, 0.25 wt% Pd)",In2O3,Pd,280.0,50.0,,4.0,2.2,78.0,,0.18,,11(2).pdf,Catalyst performance table,168,1.0
+"Palladium-promoted indium oxide (dry impregnated, 0.73 wt% Pd)",In2O3,Pd,280.0,50.0,,4.0,9.6,76.0,,0.64,,11(2).pdf,Catalyst performance table,169,1.0
+"Palladium-promoted indium oxide (dry impregnated, 3.43 wt% Pd)",In2O3,Pd,280.0,50.0,,4.0,10.1,74.0,,0.63,,11(2).pdf,Catalyst performance table,170,1.0
+"Palladium-promoted indium oxide (spray deposited, 0.63 wt% Pd)",In2O3,Pd,280.0,50.0,,4.0,9.8,78.0,,0.61,,11(2).pdf,Catalyst performance table,171,1.0
+Zirconia without noble metal,ZrO2,,280.0,50.0,,4.0,0.0,,,0.0,,11(2).pdf,Catalyst performance table,172,0.8
+"Palladium-promoted zirconia (dry impregnated, 0.73 wt% Pd)",ZrO2,Pd,280.0,50.0,,4.0,7.3,29.0,,0.15,,11(2).pdf,Catalyst performance table,173,1.0
+"Palladium-promoted zirconia (co-precipitated, 0.69 wt% Pd)",ZrO2,Pd,280.0,50.0,,4.0,2.1,10.0,,0.02,,11(2).pdf,Catalyst performance table,174,1.0
+Titania without noble metal,TiO2,,280.0,50.0,,4.0,0.0,,,0.0,,11(2).pdf,Catalyst performance table,175,0.8
+"Palladium-promoted titania (dry impregnated, 0.72 wt% Pd)",TiO2,Pd,280.0,50.0,,4.0,7.2,7.0,,0.01,,11(2).pdf,Catalyst performance table,176,1.0
+"Palladium-promoted titania (co-precipitated, 0.68 wt% Pd)",TiO2,Pd,280.0,50.0,,4.0,0.9,5.0,,0.01,,11(2).pdf,Catalyst performance table,177,1.0
+"Silver-promoted indium oxide (co-precipitated, 0.71 wt% Ag)",In2O3,Ag,280.0,50.0,,4.0,3.3,82.0,,0.18,,11(2).pdf,Catalyst performance table,178,1.0
+"Ruthenium-promoted indium oxide (co-precipitated, 0.78 wt% Ru)",In2O3,Ru,280.0,50.0,,4.0,4.0,84.0,,0.23,,11(2).pdf,Catalyst performance table,179,1.0
+"Copper-promoted indium oxide (co-precipitated, 0.75 wt% Cu)",In2O3,Cu,280.0,50.0,,4.0,3.1,32.0,,0.18,,11(2).pdf,Catalyst performance table,180,1.0
+"Platinum-promoted indium oxide (co-precipitated, 0.74 wt% Pt)",In2O3,Pt,280.0,50.0,,4.0,4.4,89.0,,0.27,,11(2).pdf,Catalyst performance table,181,1.0
+"Zinc-zirconium oxide catalyst (ZnO-ZrO2, Zn:Zr = 1:2)",,,300.0,20.0,,3.0,,,,,,12(3).pdf,Catalyst example / claim condition,182,0.6
+"Indium-zirconium oxide catalyst (In2O3-ZrO2, In:Zr = 1:2)",,,300.0,20.0,,3.0,,,,,,12(3).pdf,Catalyst example / claim condition,183,0.6
+"Cadmium-zirconium oxide catalyst (CdO-ZrO2, Cd:Zr = 1:2)",,,300.0,20.0,,3.0,,,,,,12(3).pdf,Catalyst example / claim condition,184,0.6
+"Zinc-chromium oxide catalyst (ZnO-Cr2O3, Zn:Cr = 1:1)",,,300.0,20.0,,3.0,,,,,,12(3).pdf,Catalyst example / claim condition,185,0.6
+"Indium-chromium oxide catalyst (In2O3-Cr2O3, In:Cr = 9:1)",,,300.0,20.0,,3.0,,,,,,12(3).pdf,Catalyst example / claim condition,186,0.6
+"Cadmium-chromium oxide catalyst (CdO-Cr2O3, Cd:Cr = 1:2)",,,300.0,20.0,,3.0,,,,,,12(3).pdf,Catalyst example / claim condition,187,0.6
+"Indium-zirconium oxide catalyst (In2O3-ZrO2, In:Zr = 4:1)",,,310.0,20.0,,3.0,,,,,,12(3).pdf,Catalyst example / claim condition,188,0.6
+"Zinc-zirconium oxide catalyst (ZnO-ZrO2, Zn:Zr = 1:3)",,,330.0,50.0,,3.0,,80.0,,,,12(3).pdf,Catalyst example / claim condition,189,0.8
+"Zinc-zirconium oxide catalyst (ZnO-ZrO2, Zn:Zr = 1:3, co-current precipitation)",,,300.0,20.0,,3.0,,,,,,12(3).pdf,Catalyst example / claim condition,190,0.6
+"Mechanical mixture of zinc oxide and zirconia (ZnO + ZrO2, 1:3)",,,300.0,20.0,,3.0,,,,,,12(3).pdf,Catalyst example / claim condition,191,0.6
+Copper-zinc-aluminium oxide catalyst (Cu-Zn-Al),,,240.0,20.0,,3.0,,43.0,,,,12(3).pdf,Catalyst example / claim condition,192,0.8
+Indium oxide on monoclinic zirconia (In2O3/ZrO2),monoclinic zirconia (ZrO2),,299.85,50.0,,4.0,5.6,99.9,,0.321,,14(2).pdf,Catalyst performance table,193,1.0
+Indium oxide on cubic zirconia (In2O3/ZrO2),cubic zirconia (ZrO2),,299.85,50.0,,4.0,5.8,99.9,,0.33,,14(2).pdf,Catalyst performance table,194,1.0

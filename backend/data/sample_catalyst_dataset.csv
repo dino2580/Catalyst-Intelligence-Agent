@@ -1,0 +1,9 @@
+Catalyst Composition,Support Material,Promoter,Reaction Temperature,Reaction Pressure,H2/CO2 Ratio,GHSV,CO2 Conversion %,Methanol Selectivity %,Methanol Yield %,STY,Stability,Patent Number,Extracted Text
+Cu/ZnO/Al2O3,Al2O3,,250 C,50 bar,3:1,10000 h-1,23.5,72.4,17.0,0.42,"stable for 100 h with maintained selectivity",US-CO2-001,"Reported 23.5% CO2 conversion and 72.4% methanol selectivity at 250 C and 50 bar."
+Cu/ZnO/ZrO2,ZrO2,Zr,240°C,30 bar,3,12000 h-1,28.1,78.2,22.0,0.55,"long-term stable over 120 h",US-CO2-002,"Cu/ZnO/ZrO2 showed improved conversion under moderate pressure."
+In2O3/ZrO2,ZrO2,,300 C,30 bar,4:1,9000 h-1,18.7,89.5,16.7,0.36,"durable catalyst with no deactivation",EP-CO2-014,"High methanol selectivity was observed for In2O3 supported on zirconia."
+PdZn/TiO2,TiO2,Pd,270 C,20 bar,3:1,8000 h-1,20.4,81.0,16.5,0.31,"slight decline after 60 h",JP-CO2-022,"PdZn/TiO2 operated at lower pressure with balanced performance."
+Cu/ZnO/Ga2O3,Ga2O3,Ga,260 C,40 bar,3:1,10500 h-1,31.2,74.1,23.1,0.62,"stable with minor loss",CN-CO2-118,"Ga promoted Cu/ZnO gave the highest conversion in this sample set."
+Ni-Ga/SiO2,SiO2,Ga,280 C,25 bar,3:1,11000 h-1,16.9,86.0,14.5,0.28,"maintained activity over 80 h",US-CO2-033,"Ni-Ga on silica favored methanol selectivity at moderate pressure."
+Cu/ZnO/CeO2,CeO2,Ce,230 C,20 bar,3:1,9500 h-1,24.5,87.0,21.3,0.44,"stable and durable at low pressure",WO-CO2-045,"Ceria promoted Cu/ZnO performed well under mild conditions."
+In2O3/Pd-ZrO2,ZrO2,Pd,320 C,50 bar,4:1,7000 h-1,26.0,92.0,23.9,0.50,"no deactivation over 150 h",EP-CO2-061,"In2O3/Pd-ZrO2 achieved excellent selectivity at high temperature."

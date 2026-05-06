@@ -1,0 +1,81 @@
+catalyst_name,support,promoter,temperature_c,pressure_bar,ghsv,h2_co2_ratio,conversion_pct,selectivity_pct,yield_pct,productivity,stability_text,patent_number,evidence,original_row_index,data_quality_score
+Benchmark Cu/Zn/Mg/Al oxide,Al2O3/MgO mixed oxide,"MgO, Al2O3",265.0,35.0,,0.3333333333333333,15.0,70.0,,,,1.pdf / 13.pdf,Table,1,1.0
+Example 1 CuO/ZnO/ZrO2/Al2O3,Al2O3,ZrO2; Al2O3 structural promoter/support,265.0,35.0,,0.3333333333333333,18.0,58.0,,,,1.pdf / 13.pdf,Table,2,1.0
+Example 2 CuO/ZnO/Al2O3/SiO2/ZrO2,Al2O3 + SiO2,"ZrO2, SiO2",265.0,35.0,,0.3333333333333333,6.0,64.0,,,,1.pdf / 13.pdf,Table,3,1.0
+Example 3 best formulation Cu/Ti/Zn/Zr/Al/Ce,Al-containing mixed oxide,"Ti, Zr, Ce, Al",265.0,35.0,,0.3333333333333333,19.0,69.0,,,,1.pdf / 13.pdf,Table,4,1.0
+Pd2Cu/TiO2 supported nanoparticles,P25 TiO2,Fe precursor in synthesis,200.0,31.99,,3.64,2.0,98.0,,48.0,,2.pdf,Table,5,1.0
+Pd2Cu/TiO2 supported nanoparticles,P25 TiO2,Fe precursor in synthesis,200.0,36.54,,2.79,5.0,96.0,,63.0,,2.pdf,Table,6,1.0
+Cu/ZnO on Al2O3 powder promoted Mn:Nb:Zr (1:1:1),Al2O3 powder,Mn:Nb:Zr (1:1:1),250.0,22.5,,3.0,12.47,60.23,7.5,,,3.pdf,Table,7,1.0
+Cu/ZnO on Al2O3 pellets promoted Mn:Nb:Zr (1:1:1),Al2O3 pellets,Mn:Nb:Zr (1:1:1),300.0,40.0,,3.0,24.94,64.95,15.61,,,3.pdf,Table,8,1.0
+Cu/ZnO on SBA-15 powder promoted Mn:Nb:Zr (1:1:1),SBA-15 powder,Mn:Nb:Zr (1:1:1),250.0,22.5,,3.0,19.6,99.0,19.4,,,3.pdf,Table,9,1.0
+Cu/ZnO on Al2O3 powder promoted Mn:Nb:Zr (4:1:1),Al2O3 powder,Mn:Nb:Zr (4:1:1),300.0,80.0,,10.0,68.35,93.0,63.59,,,3.pdf,Table,10,1.0
+Cu/Zn/Zr/Ce/La 45% Cu/20% Zn/15% Zr/10% Ce/10% La,,"Ce, La",240.0,40.0,,3.0,,,10.4,,,4.pdf,Table,11,0.6
+Cu/Zn/Zr/Ce/La 60% Cu/10% Zn/10% Zr/10% Ce/10% La,,"Ce, La",240.0,40.0,,3.0,,,10.8,,,4.pdf,Table,12,0.6
+Cu/Zn/Zr/Ce/La 65% Cu/20% Zn/5% Zr/5% Ce/5% La,,"Ce, La",240.0,40.0,,3.0,,,11.0,,,4.pdf,Table,13,0.6
+Cu/Zn/Zr/Ce/La 45% Cu/20% Zn/15% Zr/10% Ce/10% La,,"Ce, La",240.0,40.0,,3.0,,,10.7,,,4.pdf,Table,14,0.6
+Cu/Zn/Zr/Ce/La 60% Cu/10% Zn/10% Zr/10% Ce/10% La,,"Ce, La",240.0,40.0,,3.0,,,11.2,,,4.pdf,Table,15,0.6
+Cu/Zn/Zr/Ce/La 65% Cu/20% Zn/5% Zr/5% Ce/5% La,,"Ce, La",240.0,40.0,,3.0,,,11.1,,,4.pdf,Table,16,0.6
+Cu/Zn/Zr/Ce/La 45% Cu/20% Zn/15% Zr/10% Ce/10% La,,"Ce, La",220.0,40.0,,3.0,,,9.6,,,4.pdf,Table,17,0.6
+Cu/Zn/Zr/Ce/La 60% Cu/10% Zn/10% Zr/10% Ce/10% La,,"Ce, La",220.0,40.0,,3.0,,,10.5,,,4.pdf,Table,18,0.6
+Cu/Zn/Zr/Ce/La 65% Cu/20% Zn/5% Zr/5% Ce/5% La,,"Ce, La",220.0,40.0,,3.0,,,10.7,,,4.pdf,Table,19,0.6
+Cu/Zn/Zr/Ce/Ba 55% Cu/10% Zn/15% Zr/10% Ce/10% Ba,,"Ce, Ba",240.0,40.0,,3.0,,,10.6,,,4.pdf,Table,20,0.6
+Cu/Zn/Zr/Ce/Ba 60% Cu/15% Zn/10% Zr/10% Ce/5% Ba,,"Ce, Ba",240.0,40.0,,3.0,,,10.55,,,4.pdf,Table,21,0.6
+Cu/Zn/Zr/Ce/Ba 60% Cu/20% Zn/10% Zr/5% Ce/5% Ba,,"Ce, Ba",240.0,40.0,,3.0,,,11.0,,,4.pdf,Table,22,0.6
+Cu/Zn/Zr/Ce/Ba 55% Cu/10% Zn/15% Zr/10% Ce/10% Ba,,"Ce, Ba",240.0,40.0,,3.0,,,11.0,,,4.pdf,Table,23,0.6
+Cu/Zn/Zr/Ce/Ba 60% Cu/15% Zn/10% Zr/10% Ce/5% Ba,,"Ce, Ba",240.0,40.0,,3.0,,,10.9,,,4.pdf,Table,24,0.6
+Cu/Zn/Zr/Ce/Ba 60% Cu/20% Zn/10% Zr/5% Ce/5% Ba,,"Ce, Ba",240.0,40.0,,3.0,,,11.6,,,4.pdf,Table,25,0.6
+Cu/Zn/Zr/Ce/Ba 55% Cu/10% Zn/15% Zr/10% Ce/10% Ba,,"Ce, Ba",220.0,40.0,,3.0,,,10.0,,,4.pdf,Table,26,0.6
+Cu/Zn/Zr/Ce/Ba 60% Cu/15% Zn/10% Zr/10% Ce/5% Ba,,"Ce, Ba",220.0,40.0,,3.0,,,10.5,,,4.pdf,Table,27,0.6
+Cu/Zn/Zr/Ce/Ba 60% Cu/20% Zn/10% Zr/5% Ce/5% Ba,,"Ce, Ba",220.0,40.0,,3.0,,,10.9,,,4.pdf,Table,28,0.6
+Cu/Zn/Zr/Ce/Ba 55% Cu/10% Zn/15% Zr/10% Ce/10% Ba,,"Ce, Ba",220.0,40.0,,3.0,,,8.5,,,4.pdf,Table,29,0.6
+Cu/Zn/Zr/Ce/Ba 60% Cu/15% Zn/10% Zr/10% Ce/5% Ba,,"Ce, Ba",220.0,40.0,,3.0,,,8.9,,,4.pdf,Table,30,0.6
+Cu/Zn/Zr/Ce/Ba 60% Cu/20% Zn/10% Zr/5% Ce/5% Ba,,"Ce, Ba",220.0,40.0,,3.0,,,9.0,,,4.pdf,Table,31,0.6
+Cu/Zn/Zr/Ce/Rb 45% Cu/20% Zn/15% Zr/10% Ce/10% Rb,,"Ce, Rb",240.0,30.0,,3.0,,,10.1,,,4.pdf,Table,32,0.6
+Cu/Zn/Zr/Ce/Rb 45% Cu/20% Zn/15% Zr/10% Ce/10% Rb,,"Ce, Rb",220.0,30.0,,3.0,,,10.0,,,4.pdf,Table,33,0.6
+Cu/Zn/Zr/Ce/Rb 45% Cu/20% Zn/15% Zr/10% Ce/10% Rb,,"Ce, Rb",220.0,30.0,,3.0,,,9.8,,,4.pdf,Table,34,0.6
+Cu/Zn/Zr/Ce/Tb 45% Cu/20% Zn/15% Zr/10% Ce/10% Tb,,"Ce, Tb",240.0,40.0,,3.0,15.5,29.0,11.0,,,4.pdf,Table,35,1.0
+Cu/Zn/Zr/Ce/Tb 45% Cu/20% Zn/15% Zr/10% Ce/10% Tb,,"Ce, Tb",260.0,40.0,,3.0,21.7,58.7,12.8,,,4.pdf,Table,36,1.0
+Cu/Zn/Zr/Ce/Sr 45% Cu/20% Zn/15% Zr/10% Ce/10% Sr,,"Ce, Sr",260.0,40.0,,3.0,30.0,56.0,16.8,,,4.pdf,Table,37,1.0
+Cu/Zn/Zr/Ce/Sr 45% Cu/20% Zn/15% Zr/10% Ce/10% Sr,,"Ce, Sr",260.0,40.0,,3.0,32.0,55.0,17.7,,,4.pdf,Table,38,1.0
+Cu/Zn/Zr/Ce/Y/La 55% Cu/20% Zn/10% Zr/5% Ce/5% Y/5% La,,"Ce, Y/La",240.0,40.0,,3.0,20.0,85.0,17.9,,,4.pdf,Table,39,1.0
+Cu/Zn/Zr/Ce/Y/La 55% Cu/20% Zn/10% Zr/5% Ce/5% Y/5% La,,"Ce, Y/La",260.0,40.0,,3.0,18.8,79.0,14.8,,,4.pdf,Table,40,1.0
+CZZ1_F_T300_pHsp,SBA-15 mesoporous silica unless unsupported,,250.0,30.0,,3.0,,33.31,0.155,,51.0,5.pdf,Table,41,0.8
+CZZS_20_2.5,SBA-15 mesoporous silica unless unsupported,,250.0,30.0,,3.0,,26.37,5.05,,31.0,5.pdf,Table,42,0.8
+CZZS_20_1,SBA-15 mesoporous silica unless unsupported,,250.0,30.0,,3.0,,30.6,5.86,,46.0,5.pdf,Table,43,0.8
+CZZS_35_2.5,SBA-15 mesoporous silica unless unsupported,,250.0,30.0,,3.0,,24.35,3.89,,27.0,5.pdf,Table,44,0.8
+CZS_20_1,SBA-15 mesoporous silica unless unsupported,,250.0,30.0,,3.0,,27.74,2.46,,68.0,5.pdf,Table,45,0.8
+CZZS_20_1_No act,SBA-15 mesoporous silica unless unsupported,,250.0,30.0,,3.0,,36.1,7.01,,46.0,5.pdf,Table,46,0.8
+Cu/ZnO/Al2O3 with amine/alcohol solvent,Al2O3,NEt3:EtOH 1:1,170.0,60.0,,2.0,,,2.0,,,6.pdf,Table,47,0.6
+Cu/ZnO/Al2O3 with amine/alcohol solvent,Al2O3,NEt3:EtOH 1:10,170.0,60.0,,2.0,,,100.0,,,6.pdf,Table,48,0.6
+Cu/ZnO/Al2O3 with amine/alcohol solvent,Al2O3,NEt3:EtOH 1:10,170.0,60.0,,2.0,,,76.0,,,6.pdf,Table,49,0.6
+Cu/ZnO/Al2O3 with amine/alcohol solvent,Al2O3,NEt3:EtOH 1:10,150.0,60.0,,2.0,,,28.0,,,6.pdf,Table,50,0.6
+Cu/ZnO/Al2O3 with amine/alcohol solvent,Al2O3,NEt3:EtOH 1:10,120.0,60.0,,2.0,,,19.0,,,6.pdf,Table,51,0.6
+Cu/ZnO/Al2O3 with amine/alcohol solvent,Al2O3,NEt3:EtOH 1:5,170.0,60.0,,2.0,,,7.0,,,6.pdf,Table,52,0.6
+Cu/ZnO/Al2O3 with amine/alcohol solvent,Al2O3,TMEA:EtOH 1:10,170.0,60.0,,2.0,,,18.0,,,6.pdf,Table,53,0.6
+Cu/ZnO/Al2O3 with amine/alcohol solvent,Al2O3,DEEA:EtOH,170.0,60.0,,2.0,,,21.0,,,6.pdf,Table,54,0.6
+Copper-based methanol synthesis catalyst + carbon oxide conversion catalyst,Not specified,,,,,2.0999999999999996,,,,,,7.pdf,Claims/Abstract,55,0.3
+Cu/ZnO high specific Cu-surface catalyst,Bulk or supported Cu/ZnO,,250.0,325.0,,3.0,90.0,95.0,,15.3,,8.pdf,Abstract/Summary,56,1.0
+Ru/transition-metal pincer or nitrogen-coordinating ligand catalyst,,PN/PNP/PNNP or related ligands,,,,,,,,,,10.pdf,Abstract/Summary,57,0.3
+In2O3 (-),In2O3,,280.0,50.0,,4.0,2.3,90.0,,0.16,,11.pdf,Table,58,1.0
+Pd-In2O3 (CP),In2O3,Pd,280.0,50.0,,4.0,8.2,85.0,,0.48,,11.pdf,Table,59,1.0
+Pd-In2O3 (CP),In2O3,Pd,280.0,50.0,,4.0,11.5,78.0,,0.66,,11.pdf,Table,60,1.0
+Pd-In2O3 (CP),In2O3,Pd,280.0,50.0,,4.0,9.7,75.0,,1.01,,11.pdf,Table,61,1.0
+Pd-In2O3 (CP),In2O3,Pd,280.0,50.0,,4.0,12.3,72.0,,0.64,,11.pdf,Table,62,1.0
+Pd-In2O3 (CP),In2O3,Pd,280.0,50.0,,4.0,5.4,89.0,,0.33,,11.pdf,Table,63,1.0
+Pd-In2O3 (DI),In2O3,Pd,280.0,50.0,,4.0,2.2,78.0,,0.18,,11.pdf,Table,64,1.0
+Pd-In2O3 (DI),In2O3,Pd,280.0,50.0,,4.0,9.6,76.0,,0.64,,11.pdf,Table,65,1.0
+Pd-In2O3 (DI),In2O3,Pd,280.0,50.0,,4.0,10.1,74.0,,0.63,,11.pdf,Table,66,1.0
+Pd-In2O3 (SD),In2O3,Pd,280.0,50.0,,4.0,9.8,78.0,,0.61,,11.pdf,Table,67,1.0
+ZrO2 (-),ZrO2,,280.0,50.0,,4.0,0.0,,,0.0,,11.pdf,Table,68,0.8
+Pd-ZrO2 (DI),ZrO2,Pd,280.0,50.0,,4.0,7.3,29.0,,0.15,,11.pdf,Table,69,1.0
+Pd-ZrO2 (CP),ZrO2,Pd,280.0,50.0,,4.0,2.1,10.0,,0.02,,11.pdf,Table,70,1.0
+TiO2 (-),TiO2,,280.0,50.0,,4.0,0.0,,,0.0,,11.pdf,Table,71,0.8
+Pd-TiO2 (DI),TiO2,Pd,280.0,50.0,,4.0,7.2,7.0,,0.01,,11.pdf,Table,72,1.0
+Pd-TiO2 (CP),TiO2,Pd,280.0,50.0,,4.0,0.9,5.0,,0.01,,11.pdf,Table,73,1.0
+Ag-In2O3 (CP),In2O3,Ag,280.0,50.0,,4.0,3.3,82.0,,0.18,,11.pdf,Table,74,1.0
+Ru-In2O3 (CP),In2O3,Ru,280.0,50.0,,4.0,4.0,84.0,,0.23,,11.pdf,Table,75,1.0
+Cu-In2O3 (CP),In2O3,Cu,280.0,50.0,,4.0,3.1,32.0,,0.18,,11.pdf,Table,76,1.0
+Pt-In2O3 (CP),In2O3,Pt,280.0,50.0,,4.0,4.4,89.0,,0.27,,11.pdf,Table,77,1.0
+ZnO-ZrO2 metal oxide,Bulk mixed oxide,,330.0,50.0,,4.5,,80.0,,,,12.pdf,Abstract/Claim,78,0.8
+In2O3/ZrO2 monoclinic,ZrO2,,299.85,50.0,,4.0,5.6,99.9,,0.321,,14.pdf,Table,79,1.0
+In2O3/ZrO2 cubic,ZrO2,,299.85,50.0,,4.0,5.8,99.9,,0.33,,14.pdf,Table,80,1.0
